@@ -1,5 +1,6 @@
 import React from 'react';
+import ColorContainer from '../../containers/ColorContainer';
 
 export default function App() {
-  return <h1>Hello World</h1>;
+  return <ColorContainer/>;
 }
